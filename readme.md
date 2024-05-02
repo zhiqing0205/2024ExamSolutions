@@ -7,8 +7,10 @@
   1. 组成最大的数(排序，思维)
   2. 反转语句(字符串，模拟)
   3. 购买最多的LOL英雄(贪心，排序)
-
-
+### [阿里云春招实习笔试题解(0417)-中等](https://ziuch.com/article/AliYun-Spring-Recruitment-Internship-Test-0421)
+  1. 满足权值串的最小长度(双指针)
+  2. 求两个排列(思维)
+  3. 联通块大小相同的最少操作次数(并查集，前缀和)
 ## 2024-04-28
 ### [华为春招实习笔试题解(0417)-中等](https://ziuch.com/article/HUAWEI-Spring-Recruitment-Internship-Test-0417) 
   1. 扑克牌消除(模拟，栈)
