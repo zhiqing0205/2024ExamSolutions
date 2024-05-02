@@ -11,6 +11,10 @@
   1. 满足权值串的最小长度(双指针)
   2. 求两个排列(思维)
   3. 联通块大小相同的最少操作次数(并查集，前缀和)
+### [Bilbili春招实习笔试题解(0420)-中等](https://ziuch.com/article/Bilibili-Spring-Recruitment-Internship-Test-0420)
+  1. 找牛牛(找规律)
+  2. 翻转字符串(思维)
+
 ## 2024-04-28
 ### [华为春招实习笔试题解(0417)-中等](https://ziuch.com/article/HUAWEI-Spring-Recruitment-Internship-Test-0417) 
   1. 扑克牌消除(模拟，栈)
