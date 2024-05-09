@@ -2,6 +2,13 @@
 这是一个收录2024年春招实习的各大厂商的笔试题解及代码的项目
 
 # 动态
+## 2024-05-10
+### [字节跳动春招实习笔试题解(0508)-中等](https://ziuch.com/article/ByteDance-Spring-Internship-Recruitment-Test-0508)
+  1. 最小的攻击次数(贪心，模拟)
+  2. 恢复全排列(枚举)
+  3. 马走日的最小点和(Dijkstra)
+  4. 好子序列的数量(DP，递推)
+
 ## 2024-05-02
 ### [虾皮春招笔试题解(0429)-简单](https://ziuch.com/article/Shopee-Spring-Recruitment-Test-0429)
   1. 组成最大的数(排序，思维)
