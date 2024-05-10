@@ -9,6 +9,11 @@
   3. 马走日的最小点和(Dijkstra)
   4. 好子序列的数量(DP，递推)
 
+### [小红书春招实习笔试题解(0510)-中等](https://ziuch.com/article/Xiaohongshu-Spring-Internship-Recruitment-Test-0510)
+  1. 小红的碾压墙(数学)
+  2. 小红的精选笔记(思维，优先队列)
+  3. 小红的点赞(二分，思维)
+
 ## 2024-05-02
 ### [虾皮春招笔试题解(0429)-简单](https://ziuch.com/article/Shopee-Spring-Recruitment-Test-0429)
   1. 组成最大的数(排序，思维)
