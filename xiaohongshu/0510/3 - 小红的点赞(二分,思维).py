@@ -14,7 +14,7 @@ for i in range(n):
     if a[i] == mx:
         res[i] = s
     elif n == 2:
-        res[i] = -1
+        res[i] = -1 if a[i] < mx - 1 else 1
     else:
         l, r = 1, 10 ** 9
         while l < r:
