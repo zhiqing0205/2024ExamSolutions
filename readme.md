@@ -2,6 +2,12 @@
 这是一个收录2024年春招实习的各大厂商的笔试题解及代码的项目
 
 # 动态
+## 2024-05-28
+### [蚂蚁春招实习笔试题解(0508)-中等](https://ziuch.com/article/AntGroup-Spring-Internship-Recruitment-Test-0511)
+  1. 小红的元素取反(思维)
+  2. 小红的等腰梯形(模拟)
+  3. 小红的数组权值和(数学)
+
 ## 2024-05-10
 ### [字节跳动春招实习笔试题解(0508)-中等](https://ziuch.com/article/ByteDance-Spring-Internship-Recruitment-Test-0508)
   1. 最小的攻击次数(贪心，模拟)
