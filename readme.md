@@ -2,6 +2,12 @@
 这是一个收录2024年春招实习的各大厂商的笔试题解及代码的项目
 
 # 动态
+## 2024-06-02
+### [菜鸟春招实习笔试题解(0508)-简单](https://ziuch.com/article/CaiNiao-Spring-Internship-Recruitment-Test-0530)
+  1. 帖子顺序(贪心)
+  2. 错排的最小交换次数(思维,模拟)
+  3. 走到最后的最小体力(最短路)
+
 ## 2024-05-28
 ### [蚂蚁春招实习笔试题解(0508)-中等](https://ziuch.com/article/AntGroup-Spring-Internship-Recruitment-Test-0511)
   1. 小红的元素取反(思维)
